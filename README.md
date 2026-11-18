@@ -10,6 +10,8 @@
 
 [![CI](https://github.com/Adityab099/Placement-Hub/actions/workflows/ci.yml/badge.svg)](https://github.com/Adityab099/Placement-Hub/actions/workflows/ci.yml)
 
+[![Handbook](https://img.shields.io/badge/📖_Placement-Handbook-blue?style=for-the-badge)](https://drive.google.com/file/d/1fJMUzuQ0DUuZxSoLTlUNXeft9bv_6uor/view?usp=sharing)
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-149ECA?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
