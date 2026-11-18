@@ -924,7 +924,7 @@ ONEstopPlacement builds on excellent public work and services: **Supabase**, **V
 
 <div align="center">
 
-### Built with Vision by Mohit Kumar Yadav
+### Built with Vision by Aditya Kumar Bhardwaj
 
 </div>
 
