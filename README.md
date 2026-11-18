@@ -8,7 +8,7 @@
 
 <br/>
 
-[![CI](https://github.com/mohityadav24952-ai/ONEstopPlacement/actions/workflows/ci.yml/badge.svg)](https://github.com/mohityadav24952-ai/ONEstopPlacement/actions/workflows/ci.yml)
+[![CI](https://github.com/Adityab099/Placement-Hub/actions/workflows/ci.yml/badge.svg)](https://github.com/Adityab099/Placement-Hub/actions/workflows/ci.yml)
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-149ECA?style=for-the-badge&logo=react&logoColor=white)
@@ -928,12 +928,12 @@ ONEstopPlacement builds on excellent public work and services: **Supabase**, **V
 
 </div>
 
-**Mohit Kumar Yadav** is a B.Tech Computer Science and Engineering student at **Graphic Era University** who approaches software the way a competitive programmer approaches a problem: understand the constraints, then build the simplest thing that actually works. His problem-solving is shaped by competitive programming, with a **4★ rating on CodeChef**, contest experience on **LeetCode** and problem-solving achievements on **HackerRank**. Beyond engineering, he cleared the **NDA written examination** and was **recommended at the SSB**, an experience that sharpened his discipline and decision-making. ONEstopPlacement reflects his interest in AI and full-stack development: turning a frustrating, scattered student experience into a single, carefully engineered product.
+**Aditya Kumar Bhardwaj** is a B.Tech Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at **Graphic Era Hill University, Dehradun**. He approaches software engineering with a focus on solving real-world problems through scalable backend systems, intelligent automation, and practical AI applications. His experience includes building production-ready document processing pipelines at **Peerprep**, developing full-stack platforms, and engineering AI-powered solutions using Python, Java, Spring Boot, FastAPI, and PyTorch. He secured **1st Place at the MariTHON National Hackathon** for developing a GenAI-powered maritime document processing solution and reached the **finals of HackTheWinter National Hackathon** with an AI-driven credit limit optimization system. Through **ONEstopPlacement**, Aditya brings together his interests in AI and full-stack engineering to transform the fragmented student placement experience into a unified, intelligent, and accessible platform.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohityadav24952--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohityadav24952-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Kumar_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-yadav-177642350/)
+[![GitHub](https://img.shields.io/badge/GitHub-099Aditya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/099Aditya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhardwaj-b89381297/)
 
 <br/>
 
