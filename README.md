@@ -642,8 +642,8 @@ LangChain · LangGraph · LlamaIndex · embeddings · vector databases · vector
 ### 1. Clone
 
 ```bash
-git clone https://github.com/mohityadav24952-ai/ONEstopPlacement.git
-cd ONEstopPlacement
+git clone https://github.com/Adityab099/Placement-Hub.git
+cd Placement-Hub
 ```
 
 ### 2. Backend (terminal 1)
