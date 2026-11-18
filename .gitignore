@@ -1,0 +1,49 @@
+# Environment files and secrets (never commit real values)
+.env
+.env.*
+!.env.example
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local storage and debug dumps
+uploads/
+storage/
+ai_debug/
+
+# Keys and certificates
+*.pem
+*.key
+
+# Editors and OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+# Local dev database
+*.db
+
+*-dev.log
+*.log
+
+# Private study notes: never published
+INTERVIEW_SURVIVAL_GUIDE.md
+
+# Other people's resumes used as parser test material: personal data, never published
+ai_prompts/resume_changes/Adi resume.pdf
+ai_prompts/resume_changes/Shrey_Mittal_Resume.pdf
